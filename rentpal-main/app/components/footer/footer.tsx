@@ -218,7 +218,7 @@ export default function App() {
             </p>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://wonder-wheels.vercel.app/?category=Cycle'
+              href='https://wonder-wheels.vercel.app/?category=Cycle' 
               >Cycle</a>
             </p>
             <p className="mb-4">
