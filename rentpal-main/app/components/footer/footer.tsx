@@ -185,22 +185,22 @@ export default function App() {
             </h6>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Party%20and%20Events'
+              href='https://wonder-wheels.vercel.app/?category=Truck'
               >Truck</a>
             </p>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Gaming'
+              href='https://wonder-wheels.vercel.app/?category=Bike'
               >Bike</a>
             </p>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Photography'
+              href='https://wonder-wheels.vercel.app/?category=Scooter'
               >Scooter</a>
             </p>
             <p>
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Music'
+              href='https://wonder-wheels.vercel.app/?category=Jeep'
               >Jeep</a>
             </p>
             
@@ -213,22 +213,22 @@ export default function App() {
             </h6>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Kitchen'
+              href='https://wonder-wheels.vercel.app/?category=Rickshaw'
               >Rickshaw</a>
             </p>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Books'
+              href='https://wonder-wheels.vercel.app/?category=Cycle'
               >Cycle</a>
             </p>
             <p className="mb-4">
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Transport'
+              href='https://wonder-wheels.vercel.app/?category=SUV'
               >SUV</a>
             </p>
             <p>
               <a className="text-white-600 dark:text-white-200"
-              href='https://rentpal.vercel.app/?category=Fitness'
+              href='https://wonder-wheels.vercel.app/?category=Car'
               >Car</a>
             </p>
           </div>
