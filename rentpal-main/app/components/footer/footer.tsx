@@ -299,7 +299,7 @@ export default function App() {
         <span>© 2024 Copyright:</span>
         <a
           className="font-semibold text-neutral-600 dark:text-neutral-400"
-          href="https://github.com/shreyashkadam/rentpal"
+          href="https://github.com/Pratik-Dungano/Wonder-Wheels"
         >WONDER WHEELS</a>
       </div>
     </footer>
