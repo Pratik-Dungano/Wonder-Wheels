@@ -262,11 +262,11 @@ export default function App() {
                 <path
                   d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
               </svg>
-              pratikdungano@gmail.com
+              <a href="mailto:pratikdungano@gmail.com">pratikdungano@gmail.com</a>
             </p>
             <p className="mb-4 flex items-center justify-center md:justify-start">
               <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="http://www.w3.org/2000/svg" 
                 viewBox="0 0 24 24"
                 fill="black"
                 className="mr-3 h-5 w-5">
