@@ -300,7 +300,7 @@ export default function App() {
         <a
           className="font-semibold text-neutral-600 dark:text-neutral-400"
           href="https://github.com/Pratik-Dungano/Wonder-Wheels"
-        >WONDER WHEELS</a>
+        >Pratik Dungano</a>
       </div>
     </footer>
   );
